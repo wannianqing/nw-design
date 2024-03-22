@@ -1,0 +1,18 @@
+{
+  "name": "nw-design",
+  "version": "1.0.0",
+  "description": "牛蛙组件库,NwDesign",
+  "private": true,
+  "scripts": {
+    "build:packages": "rollup -c"
+  },
+  "keywords": [
+    "vue",
+    "nw design"
+  ],
+  "author": "青牛前端",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^9.0.11"
+  }
+}
